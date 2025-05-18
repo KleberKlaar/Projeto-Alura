@@ -3,6 +3,8 @@
 
 > Crie planos de aula completos e personalizados em segundos, otimizados pela inteligência artificial do Google Gemini. Uma ferramenta poderosa para educadores, agora com interface gráfica intuitiva e exportação direta para Word!
 
+![PrintScreen do programa](Print1.png)
+
 ## Sobre o Projeto
 
 Este projeto é uma aplicação desktop desenvolvida em Python, utilizando a SDK de Agentes do Google com o modelo Gemini, para automatizar a criação de planos de aula. Ele orquestra uma série de agentes de IA especializados em diferentes etapas do planejamento pedagógico, desde a extração de requisitos até a formatação final, e oferece uma interface gráfica simples para interação, além de uma funcionalidade essencial de exportação para `.docx`.
