@@ -19,12 +19,6 @@ from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
 warnings.filterwarnings("ignore")
 
-# Configura a API Key do Google Gemini
-# ATENÇÃO: É altamente recomendável não deixar a API Key diretamente no código
-# Considere usar variáveis de ambiente ou um arquivo de configuração seguro.
-# Para este exemplo, estamos mantendo a estrutura original, mas esteja ciente do risco.
-# Substitua a linha abaixo pela sua chave real ou carregue de uma variável de ambiente
-# Exemplo seguro: os.environ["GOOGLE_API_KEY"] = os.getenv("SUA_VARIAVEL_DE_API_KEY")
 os.environ["GOOGLE_API_KEY"] = 'INSIRA SUA API_KEY' # <<< SUBSTITUA PELA SUA CHAVE REAL
 
 # Configura o cliente da SDK do Gemini
